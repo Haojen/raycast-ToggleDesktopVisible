@@ -18,9 +18,9 @@ So this extension can help you. You can easily switch Desktop visible state, Enj
 
 ### Show Desktop
 
-<img src="./assets/shown.png">
+<img src="./assets/shown.png" width="240">
 
 ### Hidden Desktop
 
-<img src="./assets/hidden.png">
+<img src="./assets/hidden.png" width="240">
 
