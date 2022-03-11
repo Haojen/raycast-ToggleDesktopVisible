@@ -13,8 +13,8 @@
 
 ---
 
-You can toggle Desktop file and folder Show and Hidden. sometimes we don't want see Desktop have so many files or folder,
-So may the extension can help you. you can easliy switch Desktop visible. Enjoy a clean desktop wallpaper :D 
+You can toggle the Desktop file and folder Show and Hidden. Sometimes we don't want to see the Desktop have too many files or folders,
+So this extension can help you. You can easily switch Desktop visible state, Enjoy a clean desktop wallpaper.
 
 ### Show Desktop
 
