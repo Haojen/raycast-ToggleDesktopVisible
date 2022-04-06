@@ -7,7 +7,7 @@
 </h3>
 <p align="center">
   <span>
-    A Raycast Toggle Desktop Visible Extension. Use very easy.
+    A Raycast Toggle Desktop Visible Extension. Very easy to use.
   </span>
 </p>
 
