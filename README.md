@@ -11,6 +11,12 @@
   </span>
 </p>
 
+<p align="center">
+   <a title="Install Toggle Desktop Visibility Raycast Extension" href="https://www.raycast.com/Haojen/toggle-desktop-visibility#install">
+       <img height="64" style="height: 64px" src="https://assets.raycast.com/Haojen/toggle-desktop-visibility/install_button@2x.png">
+   </a>      
+</p>
+
 ---
 
 You can toggle the Desktop file and folder Show and Hidden. sometimes we don't want to see the Desktop have so many files or folders,
